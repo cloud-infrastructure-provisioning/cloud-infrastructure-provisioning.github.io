@@ -1,1 +1,1 @@
-# cloud-infrastructure-provisioning.github.io
+# Cloud Infrastructure Provisioning training materials
